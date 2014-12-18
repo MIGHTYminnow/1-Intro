@@ -1,4 +1,4 @@
-1-Intro
+Read Me
 =======
 
-An intro to the MIGHTYminnow Github account
+The MIGHTYminnow Github account is a place to share reusable snippets, techniques, best practices, and notes between team members. Please keep tidy!
